@@ -1,2 +1,3 @@
-# alternativepath.io
-This a site where some of the Makerere Past papers are found
+# PDF Viewer
+
+> Custom PDF viewer with pagination built with pdf.js
