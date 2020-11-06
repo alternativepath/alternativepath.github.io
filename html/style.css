@@ -1,8 +1,7 @@
-#container{
+
+#courseContainer{
     display: flex;
     flex-wrap: wrap;
-}
-#root{
-    display: flex;
-    flex-wrap: wrap;
+    margin: 1.5rem;
+    
 }
